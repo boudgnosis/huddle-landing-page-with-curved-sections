@@ -14,7 +14,6 @@ This is the [Huddle landing page with curved sections challenge on Frontend Ment
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -66,9 +65,9 @@ I learned how to use a JavaScript library that allows me to add effects as I scr
 window.sr = ScrollReveal()
 
 sr.reveal('.container__sections-cards', {
-	delay: 500,
-	origin: 'bottom',
-	distance: '-100px'
+delay: 500,
+origin: 'bottom',
+distance: '-100px'
 });
 ```
 
